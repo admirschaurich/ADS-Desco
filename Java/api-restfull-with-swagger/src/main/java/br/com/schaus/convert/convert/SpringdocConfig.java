@@ -20,6 +20,6 @@ public class SpringdocConfig {
                 .license(new License().name("Apache 2.0").url("http://springdoc.org")))
                 .externalDocs(new ExternalDocumentation()
                 .description("GitHub da aplicação")
-                .url("https://github.com/endereco-repositorio-api"));
+                .url("https://github.com/admirschaurich/ADS-Desco/tree/main/Java/api-restfull-with-swagger"));
     }
 }
